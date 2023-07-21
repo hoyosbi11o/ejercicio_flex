@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content:space-around;
+    flex-wrap:wrap;
+}
+body img{
+    width: 260px;
+    height: 241px;
+    justify-items: stretch;
+    padding: 5px 0;
+}

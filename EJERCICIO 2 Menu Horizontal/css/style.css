@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    flex-direction: column;
+}
+div{
+    width: 20%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    background-color: rgb(199, 199, 199);
+    list-style: none;
+    margin: 3px;
+}
+a{
+    text-decoration: none;
+    background-color: aliceblue;
+    color: black;
+    padding: 2px;
+}
